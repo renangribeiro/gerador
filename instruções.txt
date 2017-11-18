@@ -1,0 +1,22 @@
+1-Exportar estrutura do banco:
+-certificado.sql
+
+
+2-Configurar o acesso ao banco de dados nos seguintes arquivos:
+-certificado.php
+-popular-table.php
+
+3-Gerar arquivo csv apenas com participantes que fizeram checkin na eventbrite,e salvar na pasta gerador
+
+4-Alterar arquivo popular-table.php 
+
+5- Rodar o script popular table
+
+6-salvar layout do certificado em png na pasta gerador
+
+7-configurar arquivo libs/phpmailer/email.php
+
+8-configurar arquivo gerar-certificado.php
+
+9- para emitir,rodar na url o script gerar-certificado.php
+
